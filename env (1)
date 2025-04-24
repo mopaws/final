@@ -1,0 +1,6 @@
+KEY = "yazOuQmnYHKSePio6Y1CkE5y2-pnGjac3shuW176bxM="
+PG_DBNAME = "soccerstats"
+PG_USER = "soccerstats"
+PG_PASSWORD = "gAAAAABn0g1Gv-fM1QmIIMONszj0PiFpOctA17sh0ss1A3bxUolyvNXt25-_eY3MKCiZeWf_KHJ9pQVAmYkUoMT79vZU9wawtA=="
+PG_HOST = "drhscit.org"
+PG_PORT = 5432
